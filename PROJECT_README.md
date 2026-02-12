@@ -16,17 +16,17 @@ project_package/
 ├── data/                               ← Datasets
 │   ├── Titanic-Dataset.csv            ← Original raw dataset (891 rows, 12 columns)
 │   ├── titanic_cleaned.csv            ← Cleaned dataset from uploaded files
-│   └── titanic_cleaned_output.csv     ← Cleaned dataset from our script
+│   └── titanic_cleaned_output.csv     ← Cleaned dataset from the script
 │
 ├── notebooks/                          ← Jupyter Notebooks
-│   └── Titanic_EDA_Preprocessing.ipynb ← Your uploaded notebook
+│   └── Titanic_EDA_Preprocessing.ipynb ← uploaded notebook
 │
 ├── scripts/                            ← Python Scripts
 │   └── data_preprocessing.py          ← Complete preprocessing pipeline
 │
 ├── visualizations/                     ← All visualizations
 │   ├── preprocessing_analysis.png     ← 6-panel analysis dashboard
-│   ├── original_visualizations.png    ← Your uploaded visualizations
+│   ├── original_visualizations.png    ← Uploaded visualizations
 │   └── upload_workflow_diagram.png    ← GitHub/Kaggle workflow diagram
 │
 ├── docs/                               ← Documentation
